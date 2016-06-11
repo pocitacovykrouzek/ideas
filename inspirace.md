@@ -1,5 +1,7 @@
 # Inspirace
 
+Posbíráno z dotazníku.
+
 ## Výroba
 
 **FormBox: A Desktop Vacuum Former That Makes Beautiful Things**
