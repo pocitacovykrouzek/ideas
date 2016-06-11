@@ -28,7 +28,7 @@ Link: http://myalearning.com
 
 Link: http://lilypadarduino.org/
 
-**Wearables**
+**Sparkl Motion**
 
 Link: http://blog.alphaonelabs.com/post/74552956882/sparkl-motion
 
