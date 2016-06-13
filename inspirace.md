@@ -85,6 +85,12 @@ Link: http://additivism.org
 
 Link: http://www.generation-what.cz/
 
+**Výuka programování pro neprogramátory**
+
+Porozumění: Learnable programming (Bret Victor), Processing
+
+Využití: vizualizace, formátování textu, hypertext, automatizace, utilitky
+
 ## MOOCs
 
 **edchatNZ MOOC**
