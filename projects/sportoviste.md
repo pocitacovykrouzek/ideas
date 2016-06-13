@@ -3,6 +3,7 @@
 ## Co se bude dělat
 
 Webová mapa, kde budou vyznačena volná sportoviště (místa, kde můžete sportovat zadarmo). Místa (pinecové stoly, horostěny, ...), plochy (hřiště), linie (stezky na kolečkové brusle, ...).
+
 Je potřeba udělat rešerši, jestli něco takového už není.
 
 ## Proč se to bude dělat
@@ -16,4 +17,5 @@ Webová aplikace. Google Places? Leaflet?
 ## Tým a role
 
 Radek - ideace, vývoj
+
 Kdo se přidá?
