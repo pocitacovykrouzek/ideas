@@ -89,6 +89,7 @@ Témata
 ### Urban farming
 
 Link: http://j.mp/memobrno
+
 Link: http://www.creativeapplications.net/environment/hortus-machina-b-speculative-urban-cyber-gardener/
 
 ### 3D Additivism
