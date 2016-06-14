@@ -1,4 +1,4 @@
-# LaTex šablony pro akademické prostředí
+# LaTeX šablony pro akademické prostředí
 
 ## Co se bude dělat
 
@@ -8,7 +8,7 @@
 
 - Rešerše podobných projektů (našel jsem jen pár věcí)
 - Propojit formát psaní odborných prací školy (MUNI) s naší šablonou
-- Šablona by měla být přehledná i pro lidi, kteří se neorientují v LaTexu
+- Šablona by měla být přehledná i pro lidi, kteří se neorientují v LaTeXu
 - Prostudovat aplikaci [Overleaf](https://www.overleaf.com)
 
 
@@ -19,18 +19,18 @@ Chtěl bych změnit formát psaní odborných prací, které se odevzdávají na
 ## Jaké budou náklady, materiál, vybavení apod.
 
 - Aplikace [Overleaf](https://www.overleaf.com)
-- Znalost LaTex
+- Znalost LaTeX
 
 ## Tým a role
 
 Martin - ideace, vývoj
+Radek - konzultace
 
 **IDEA** 
 
-- Neumím v LaTex, chci se v něm naučit během prázdnin a beru to jako určitý challenge, který má mít zároveň smysl
+- Neumím v LaTeX, chci se v něm naučit během prázdnin a beru to jako určitý challenge, který má mít zároveň smysl
 - Budu nejspíše potřebovat odbornější připomínky
 - Nevím zdali šablony publikovat na [Overleaf](https://www.overleaf.com), ale zatím mi to přijde jako nejlepší způsob, jelikož dovoluje kolaborativní psaní a live náhled; nebráním se jakékoliv jiné platformě (stránka, aplikace atd.)
 - Budu rád za případné issue
 
 Přidá se někdo?
-
