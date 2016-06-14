@@ -24,6 +24,7 @@ Chtěl bych změnit formát psaní odborných prací, které se odevzdávají na
 ## Tým a role
 
 Martin - ideace, vývoj
+
 Radek - konzultace
 
 **IDEA** 
